@@ -1,0 +1,69 @@
+
+body {
+  margin:400px;
+padding:100px
+
+
+}
+
+h1 {
+  background-color: paleturquoise;
+  font-family: monospace;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: aliceblue;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+ol {
+  width: 640px;
+  height: 180px;
+  background-color: #FDFD96;
+  opacity: 70%;
+
+}
+
+div#tiempode {
+  width: 200px;
+  height: 200px;
+  background-color: palegreen;
+  float: right;
+
+  line-height: 180px;
+  text-align: center;
+ flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px) {
+  body font-size: 80%;
+
+}
+
+
+
+
+/*# sourceMappingURL=style.css.map */
